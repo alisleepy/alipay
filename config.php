@@ -21,7 +21,6 @@ $config = array (
 
 		//生产环境支付宝网关
 		//'gatewayUrl' => "https://openapi.alipay.com/gateway.do",
-
 		//沙箱环境支付网关
 		'gatewayUrl' => "https://openapi.alipaydev.com/gateway.do",
 
